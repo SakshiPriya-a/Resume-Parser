@@ -1,4 +1,4 @@
-#Running the program
+# Running the program
 
 Clone the repository to your local machine
 
