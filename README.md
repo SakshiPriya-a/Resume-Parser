@@ -4,7 +4,7 @@ Clone the repository to your local machine
 
 Navigate to the project directory
 
-Install all the required libraries (just run pip install -r /path/to/requirements.txt)
+Install all the required libraries 
 
 Provide your Open AI API key in the .yaml file
 
